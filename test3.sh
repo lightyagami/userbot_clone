@@ -1,5 +1,5 @@
 git clone https://github.com/lightyagami/py-music-bot /root/test3
-cp CREDS/config.toml /root/tes3/config.toml
+cp CREDS/config.toml /root/test3/config.toml
 cd /root/test3
 
 sudo apt-get install python3-pip ffmpeg
