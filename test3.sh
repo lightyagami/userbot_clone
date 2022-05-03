@@ -8,7 +8,8 @@ pip3 install opuslib
 pip3 install opus-api
 pip3 install pipenv
 pipenv install
-pipenv shell
+pip3 install discord.py
+#pipenv shell
 
 #pip3 install -U -r requirements.txt
 python3 -m musicbot
