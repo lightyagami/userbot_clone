@@ -1,4 +1,4 @@
-name: TG_Userbot_Workflow
+name: Deploy_BoT
 
 on:
     push:
